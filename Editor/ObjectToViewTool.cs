@@ -3,7 +3,7 @@ using UnityEditor;
 
 public static class ObjectToViewTool
 {
-    [MenuItem("Tools/Move Object To View #&p")]
+    [MenuItem("Five/Scene View/Move Object To View #&p")]
     private static void BringToView()
     {
         var target = Selection.activeGameObject;
