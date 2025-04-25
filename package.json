@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.objecttoview",
 	"version": "1.0.0",
-	"displayName": "Object to View",
+	"displayName": "Five - Object to View",
 	"description": "Change selected object's position to current scene-view camera's position",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
